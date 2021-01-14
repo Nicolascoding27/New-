@@ -1,0 +1,9 @@
+/*selector	{
+
+Property:Value
+
+}
+*/
+/*Select all elements with **/
+
+*{text-align:right}body{background-image:url(https://images.unsplash.com/photo-1531920162873-5c0c06161df6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80);background-size:cover}h2{color:#aa3939;text-align:center;border:5px solid rgba(255,168,168,.75);cursor:pointer}p{color:#fff;border:5px solid #ffa8a8;text-transform:uppercase;font-style:italic;font-weight:700;font-size:80%;font-family:'JetBrains Mono',monospace;line-height:20px}ul{color:#fff}li{list-style:none;display:inline-block}.webtext:last-child{border:5px dashed green}.active{color:#fff}#div1{background:rgba(255,168,168,.75)}#div2{background:rgba(0,0,255,.2)}#div3{float:left}footer{clear:both;color:#fff;text-align:center}
